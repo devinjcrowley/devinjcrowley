@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Devin Crowley ( @devinjcrowley )
+- 🎒 I'm a student at Rutgers University, New Brunswick. (Go Scarlet Knights! 🚩⚔️)
+- 🏢 I'm currently interning with the NJCCIC on internal-use cybersecurity web applications.
+- 👀 I’m interested in Neuroscience and Artificial Intelligence!
+- 🌱 I’m currently learning about Machine Learning on Coursera. <!-- https://www.coursera.org/learn/machine-learning/ -->
+- 💞️ I’m looking to collaborate on beginner and intermediate data science projects!
+- 📫 You can reach me here: https://www.linkedin.com/in/devinjcrowley/
